@@ -9,3 +9,4 @@ The model is first defined with the VGG_Face architecture. We used the pretraine
 The model is then trained yielding more than 90 percent validation accuracy.
 
 The trained model is not uploaded. It can be trained using the notebooks given; it would not take more than 2 minutes to train the model(depends on the dataset).
+Or the trained model can be downloaded from : https://drive.google.com/file/d/1BrPlqg3ZqInn1H5g3Tbh3un9MoJgN88B/view?usp=sharing
